@@ -10,14 +10,8 @@ Utilizamos um modelo de IA para analisar diferentes sentenças e determinar seus
 
 ## 📸 Prints das Análises
 
-1. **Sentenças Positivas**
-   ![Imagem 1](prints/print1.jpg)
+![Análise de Sentimentos](prints/imagem1.jpg)
 
-2. **Sentença Negativa**
-   ![Imagem 2](prints/print2.jpg)
-
-3. **Sentenças Mistas**
-   ![Imagem 3](prints/print3.jpg)
 
 ## 🔍 Insights
 
