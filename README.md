@@ -10,7 +10,7 @@ Utilizamos um modelo de IA para analisar diferentes sentenças e determinar seus
 
 ## 📸 Prints das Análises
 
-![Análise de Sentimentos](prints/imagem1.jpg)
+![Análise de Sentimentos](prints/print1.jpg) (prints/print2.jpg) (prints/print3.jpg)
 
 
 ## 🔍 Insights
