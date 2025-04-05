@@ -8,10 +8,6 @@ Este repositório contém um experimento de análise de sentimento utilizando fe
 
 Utilizamos um modelo de IA para analisar diferentes sentenças e determinar seus sentimentos gerais (positivo, negativo, neutro ou misto). O objetivo é entender como a IA classifica emoções e se há padrões interessantes nos resultados.
 
-## 📸 Prints das Análises
-
-![Análise de Sentimentos]
-
 
 ## 🔍 Insights
 
